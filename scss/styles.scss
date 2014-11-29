@@ -1,19 +1,19 @@
 @import "scss/foundation/_settings";
 @import "./foundation";
 .color_block{
-  padding: 50px
-  background-color: EEE;
+  padding: 50px;
+  background-color: #EEE;
   border: 5px solid black;
   &#red{
     border-color: #C71C1C;
     background-color: #F7B2B2;
   }
   &#green{
-    border-color: #447026
+    border-color: #447026;
     background-color: #D3EDBB;
   }
   &#blue{
-    border-color: #B3E4F2
+    border-color: #B3E4F2;
     background-color: #876985;
   }
 }
